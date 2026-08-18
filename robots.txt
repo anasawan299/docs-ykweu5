@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-k70i9s.mineraltoto55sgp.cyou/sitemap.xml
